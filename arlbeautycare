@@ -1,0 +1,1 @@
+<style> body { font-family: 'Poppins', sans-serif; background:#ffeef7; padding:20px; color:#333; } section{ background:white; padding:20px; border-radius:12px; margin-bottom:25px; border:3px solid #ffbcd8; } h1, h2, h3, h4{ color:#d83f87; } ul{margin-left:-15px;} .tag{ display:inline-block; padding:5px 12px; background:#ffd2e8; border-radius:20px; margin-bottom:10px; } </style>
